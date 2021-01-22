@@ -12,3 +12,8 @@ s
 s
 s
 1
+
+test 3days before
+soa due date
+soa dude date + 7
+1
